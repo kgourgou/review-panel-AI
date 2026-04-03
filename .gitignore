@@ -1,0 +1,12 @@
+.env
+.venv/
+__pycache__/
+panel_config.yaml
+panel_review.md
+papers/
+*.tex
+*.pdf
+*.json
+*.md
+.DS_Store
+panel_transcript.json
