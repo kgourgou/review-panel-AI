@@ -8,10 +8,9 @@ Run a small panel of OpenRouter models over a manuscript (plain text, LaTeX, mar
 
 ```bash
 uv sync
-cp .env.example .env
 ```
 
-Then edit `.env`:
+Then create a `.env` and add your OpenRouter key:
 
 ```bash
 OPENROUTER_API_KEY=your_openrouter_key
